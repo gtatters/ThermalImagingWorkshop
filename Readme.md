@@ -1,7 +1,3 @@
----
-title: "Readme"
-output: html_document
----
 
 # Thermal Imaging Workshop
 
