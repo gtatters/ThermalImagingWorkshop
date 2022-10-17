@@ -13,7 +13,7 @@ output: html_document
 
 ## Instructors
 - Dr. Dominic McCafferty
-= Dr. Andreas Nord
+- Dr. Andreas Nord
 - Dr. Joshua Tabh
 - Dr. Glenn Tattersall
 
