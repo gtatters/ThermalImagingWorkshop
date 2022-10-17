@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 ThermalImagingWorkshop.Rproj
+.gitignore
