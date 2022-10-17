@@ -26,8 +26,10 @@
 
 - Please download FLIR Studio Starter here (https://www.flir.co.uk/instruments/thermal-studio-plan-selection/
 ) and choose the free option that gives us limited access to features:
+
 ![Teledyne Flir Website](img/FLIR_Studio_Screenshot.png)
 
+- This version is free, although you do need to "sign up" with FLIR to have access.
 
 - Register with FLIR and they will send you a license key to access the free software features. 
 
