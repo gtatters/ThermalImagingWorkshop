@@ -32,7 +32,16 @@ output: html_document
 ) and choose the free option that gives us limited access to features:
 ![Teledyne Flir Website](img/FLIR_Studio_Screenshot.png)
 
+
 - Register with FLIR and they will send you a license key to access the free software features. 
+
+
+Alternative FLIR software downloads:
+- FLIR Studio Starter link:
+https://www.dropbox.com/s/edspjhairxr3y44/FLIR_Thermal_Studio_Installer.exe?dl=0 
+
+- FLIR Tools + (older version that may work better on some systems, but the Mac version is no longer available because FLIR hardly supports Mac OSX): 
+https://support.flir.com/SwDownload/app/RssSWDownload.aspx?ID=1247
 
 
 ## File Access
