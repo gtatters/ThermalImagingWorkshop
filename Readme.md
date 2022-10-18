@@ -35,11 +35,11 @@
 
 
 Alternative FLIR software downloads:
-- FLIR Studio Starter link:
-https://www.dropbox.com/s/edspjhairxr3y44/FLIR_Thermal_Studio_Installer.exe?dl=0 
+- FLIR Studio Starter link if the above does not work:
+https://www.dropbox.com/s/edspjhairxr3y44/FLIR_Thermal_Studio_Installer.exe?dl=1 
 
-- FLIR Tools + (older version that may work better on some systems, but the Mac version is no longer available because FLIR hardly supports Mac OSX): 
-https://support.flir.com/SwDownload/app/RssSWDownload.aspx?ID=1247
+- FLIR Tools + (older version that may work better on some systems, but the Mac version is no longer available because FLIR hardly supports Mac OSX).  Note: this software is likely to be discontinued.
+https://www.dropbox.com/s/t6xjvjvnptzw514/FLIR%20Tools.zip?dl=1
 
 
 ## File Access
