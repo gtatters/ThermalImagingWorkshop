@@ -35,7 +35,7 @@
 
 -   To participate in this workshop, you will need access to a laptop (preferreably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometricimage files. 
 
-- A 30 day trial of FLIR Research Studio is the best option:
+- A 30 day trial of FLIR Research Studio may be the best option:
 
 ![FLIR Research Studio Download from Teledyne Flir
 Website](img/FLIR_Research_Studio_Download.png)
@@ -57,11 +57,6 @@ Website](img/FLIR_Studio_Screenshot.png)
 
 [![FLIR Studio Starter
 Video](http://img.youtube.com/vi/sfrEELVn8Cg/0.jpg)](https://www.youtube.com/watch?v=sfrEELVn8Cg)
-
-
-https://support.flir.com/SwDownload/app/RssSWDownload.aspx?ID=12399&pn=FLIR+Research+Studio&vn=4232535&_ga=2.46099620.1060185630.1666184126-1995378071.1665518680&_gac=1.215550821.1666007432.CjwKCAjw-rOaBhA9EiwAUkLV4uEJ_dl7uYVgyFAHL5Sg8ykXncxHhHE8TBnIlA_AMG0AiOfq6bXYZhoCULMQAvD_BwE&_gl=1*1w7u95b*_ga*MTk5NTM3ODA3MS4xNjY1NTE4Njgw*_ga_CYF2N4QDDM*MTY2NjE4NDEyNS44LjEuMTY2NjE4NDIwMi42MC4wLjA.
-
-
 
 
 Alternative FLIR software downloads: - FLIR Studio Starter link if the
