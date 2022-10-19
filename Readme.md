@@ -15,9 +15,17 @@
 
 ## Schedule
 
-- Morning: Theory and Background to Infrared Thermal Imaging and Field Thermography
+### Morning Session (Lecture/Seminar)
 
-- Afternoon: Break-out sessions using thermal imaging cameras, analysing thermal images and videos, common pitfalls in analysis and image capture.  
+- Theory and Background to Infrared Thermal Imaging
+- Field Thermography
+
+
+### Afternoon Session (Break-out groups of 10)
+
+- Practical Field Session using thermal cameras
+
+- Practical Lab Session using thermal imaging software, analysing thermal images and videos, common pitfalls in analysis and image capture.  
 
 
 ## Before you attend
