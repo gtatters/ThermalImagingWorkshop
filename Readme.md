@@ -55,4 +55,15 @@ https://www.dropbox.com/s/t6xjvjvnptzw514/FLIR%20Tools.zip?dl=1
 https://brocku-my.sharepoint.com/:f:/g/personal/gtattersall_brocku_ca/Ei2EJzkhlOpAumgHp_e85MkByz4xdqxjXBEa-cnQiAkfxA?e=VCJ0d6
 
 
+## Further Reading
 
+McCafferty, DJ. 2013. Applications of thermal imaging in avian science. IBIS.
+155: 4-15 https://doi.org/10.1111/ibi.12010
+
+Montmany-Playà, N. and Tattersall, GJ. 2021. Spot size, distance, and emissivity errors in field applications of infrared thermography. Methods in Ecology and Evolution. 12: 828-840. https://doi.org/10.1111/2041-210X.13563
+
+Tabh, Joshua KR, Burness, G, Wearing, OH, Tattersall, GJ, Mastromonaco, GF.  2021. Infrared thermography as a technique to measure physiological stress in birds: body region and image angle matter.  Physiological Reports. 9: e14865. https://doi.org/10.14814/phy2.14865
+
+Tapper, S, Tabh, JKR, Tattersall, GJ, and Burness, G. 2022. Changes in body surface temperature play an underappreciated role in the avian immune response. Physiological and Biochemical Zoology, 95: 152-167. https://doi.org/10.1086/718410
+
+Tattersall, GJ, 2016. Infrared thermography: A non-invasive window into thermal physiology. Comparative Biochemistry and Physiology A. 202:78-98, https://doi.org/10.1016/j.cbpa.2016.02.022
