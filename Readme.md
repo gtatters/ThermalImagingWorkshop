@@ -33,18 +33,17 @@
 
 ## Before you attend
 
--   To participate in this workshop, you will need access to a PC laptop
-    with functioning software solution for examining FLIR radiometric
-    image files. (Mac options are not available from FLIR,
-    unfortunately).
+-   To participate in this workshop, you will need access to a laptop (preferreably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometricimage files. 
 
 - A 30 day trial of FLIR Research Studio is the best option:
 ![FLIR Research Studio Download from Teledyne Flir
-Website](img/FLIR_Research_Studio_Download.png) and can be downloaded for PC, Mac, and Linux here:
+Website](img/FLIR_Research_Studio_Download.png)
+
+- It can be downloaded for PC, Mac, and Linux here:
 
 https://www.flir.co.uk/discover/rd-science/experience-flir-research-studio/
 
--  Alternatively, a free versionf FLIR Studio Starter can be downloaded here: https://www.flir.co.uk/instruments/thermal-studio-plan-selection/ but choose the free option that gives us limited access to features:
+-  Alternatively, a free version of FLIR Studio Starter can be downloaded here (only for PC): https://www.flir.co.uk/instruments/thermal-studio-plan-selection/ but choose the free option that gives us limited access to features:
 
 ![FLIR Studio Download from Teledyne Flir
 Website](img/FLIR_Studio_Screenshot.png)
