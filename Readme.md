@@ -71,3 +71,5 @@ Tabh, Joshua KR, Burness, G, Wearing, OH, Tattersall, GJ, Mastromonaco, GF.  202
 Tapper, S, Tabh, JKR, Tattersall, GJ, and Burness, G. 2022. Changes in body surface temperature play an underappreciated role in the avian immune response. Physiological and Biochemical Zoology, 95: 152-167. https://doi.org/10.1086/718410
 
 Tattersall, GJ, 2016. Infrared thermography: A non-invasive window into thermal physiology. Comparative Biochemistry and Physiology A. 202:78-98, https://doi.org/10.1016/j.cbpa.2016.02.022
+
+Lucy A. Winder, Stewart A. White, Andreas Nord, Barbara Helm, Dominic J. McCafferty. 2020. Body surface temperature responses to food restriction in wild and captive great tits. Journal of Experimental Bioloogy. 223: jeb220046. https://doi.org/10.1242/jeb.220046
