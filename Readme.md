@@ -17,12 +17,12 @@
 
 - Morning: Theory and Background to Infrared Thermal Imaging and Field Thermography
 
-- Afternoon: Break-out sessions using thermal imaging cameras, analysing thermal images and videos, common pitfalls in analysis and image capture
+- Afternoon: Break-out sessions using thermal imaging cameras, analysing thermal images and videos, common pitfalls in analysis and image capture.  
 
 
 ## Before you attend
 
-- To participate in this workshop, you will need a functioning software solution for examining FLIR radiometric image files.
+- To participate in this workshop, you will need access to a PC laptop with functioning software solution for examining FLIR radiometric image files.
 
 - Please download FLIR Studio Starter here (https://www.flir.co.uk/instruments/thermal-studio-plan-selection/
 ) and choose the free option that gives us limited access to features:
