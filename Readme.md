@@ -64,7 +64,7 @@ https://brocku-my.sharepoint.com/:f:/g/personal/gtattersall_brocku_ca/Ei2EJzkhlO
 
 
 ## Further Reading
-
+ 
 - McCafferty, DJ. 2013. Applications of thermal imaging in avian science. IBIS.
 155: 4-15 https://doi.org/10.1111/ibi.12010
 
