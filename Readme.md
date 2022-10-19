@@ -22,7 +22,7 @@
 
 ## Before you attend
 
-- To participate in this workshop, you will need access to a PC laptop with functioning software solution for examining FLIR radiometric image files.
+- To participate in this workshop, you will need access to a PC laptop with functioning software solution for examining FLIR radiometric image files. (Mac options are not available from FLIR, unfortunately).
 
 - Please download FLIR Studio Starter here (https://www.flir.co.uk/instruments/thermal-studio-plan-selection/
 ) and choose the free option that gives us limited access to features:
