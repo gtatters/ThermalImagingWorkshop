@@ -60,7 +60,11 @@ https://brocku-my.sharepoint.com/:f:/g/personal/gtattersall_brocku_ca/Ei2EJzkhlO
 McCafferty, DJ. 2013. Applications of thermal imaging in avian science. IBIS.
 155: 4-15 https://doi.org/10.1111/ibi.12010
 
+McCafferty, DJ, Gilbert, C, Thierry, A-M, Currie, J, Le Maho, Y, and Ancel, A. 2013. Emperor penguin body surfaces cool below air temperature. Biology Letters. 9: 1-4. https://doi.org/10.1098/rsbl.2012.1192
+
 Montmany-Playà, N. and Tattersall, GJ. 2021. Spot size, distance, and emissivity errors in field applications of infrared thermography. Methods in Ecology and Evolution. 12: 828-840. https://doi.org/10.1111/2041-210X.13563
+
+Szafranska, PA, Andreasson, F, Nord, A, Nilsson, JA. 2017. Deep body and surface temperature responses to hot and cold environments in the zebra finch. Journal of Thermal Biology. 94:e102776. https://doi.org/10.1016/j.jtherbio.2020.102776
 
 Tabh, Joshua KR, Burness, G, Wearing, OH, Tattersall, GJ, Mastromonaco, GF.  2021. Infrared thermography as a technique to measure physiological stress in birds: body region and image angle matter.  Physiological Reports. 9: e14865. https://doi.org/10.14814/phy2.14865
 
