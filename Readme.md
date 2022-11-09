@@ -7,7 +7,7 @@
 
 ## Where
 
--   Lund University
+-   Lund University, Department of Biology
 
 ## Instructors
 
@@ -40,7 +40,7 @@
 
 ## Before you attend
 
--   To participate in this workshop, you will need access to a laptop (preferrably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometricimage files. 
+-   To participate in this workshop, you will need access to a laptop (preferrably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometric image files. 
 
 - A 30 day trial of FLIR Research Studio may be the best option:
 
