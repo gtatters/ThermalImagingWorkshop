@@ -27,13 +27,13 @@
 
 ### Afternoon Session (1300 - 1600h)
 
--   1300h-1330h - Demonstrate Analytical Aspects of Software Analysis, Analysing thermal images and videos, common pitfalls in analysis and image capture.
+-   1300h-1330h - Demonstrate analytical aspects of software analysis, analysing thermal images and videos, common pitfalls in analysis and image capture.
 
--   1330h-1500h: Practical Lab Session to analyse group data collected in the morning and present to groups your findings. 
+-   1330h-1500h: Analyse group data collected in the morning and present to groups your findings. 
 
 -   1500h-1530h Automation challenges in Thermal Imaging 
     
--   1530h-1600h: Round Up Session, Question Period.
+-   1530h-1600h: Wrap-pp session, question period.
 
 -   Aim to finish by 1600h.
     
