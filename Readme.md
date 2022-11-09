@@ -21,7 +21,7 @@
 ### Morning Session (0900h Lecture/Seminar)
 
 -   0900h-1000h: Theory and Background to Infrared Thermal Imaging
--   1000h-1200h: Break out groups using one of the 4 cameras - familiarity with cameras. Practical Field Sessions using thermal cameras (5 to use).  Groups pursue questions ranging from: Ambient Temperature Effects, Distance Effects, Insulation Effects, Blurring Effects, Movement Effects, Curvature/Angle Effects - using self subjects.
+-   1000h-1200h: Break out groups using one of the 5 cameras - familiarity with cameras. Practical Field Sessions using thermal cameras (5 to use).  Groups pursue questions ranging from: Ambient Temperature Effects, Distance Effects, Insulation Effects, Blurring Effects, Movement Effects, Curvature/Angle Effects - using self subjects.
 
 ## Lunch Break (1200 - 1300)
 
