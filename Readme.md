@@ -18,22 +18,29 @@
 
 ## Schedule
 
-### Morning Session (Lecture/Seminar)
+### Morning Session (0900h Lecture/Seminar)
 
--   Theory and Background to Infrared Thermal Imaging
--   Field Thermography
+-   0900h-1000h: Theory and Background to Infrared Thermal Imaging
+-   1000h-1200h: Break out groups using one of the 4 cameras - familiarity with cameras. Practical Field Sessions using thermal cameras (5 to use).  Groups pursue questions ranging from: Ambient Temperature Effects, Distance Effects, Insulation Effects, Blurring Effects, Movement Effects, Curvature/Angle Effects - using self subjects.
 
-### Afternoon Session (Break-out groups of 10)
+## Lunch Break (1200 - 1300)
 
--   Practical Field Session using thermal cameras
+### Afternoon Session (1300 - 1600h)
 
--   Practical Lab Session using thermal imaging software, analysing
-    thermal images and videos, common pitfalls in analysis and image
-    capture.
+-   1300h-1330h - Demonstrate Analytical Aspects of Software Analysis, Analysing thermal images and videos, common pitfalls in analysis and image capture.
+
+-   1330h-1500h: Practical Lab Session to analyse group data collected in the morning and present to groups your findings. 
+
+-   1500h-1530h Automation challenges in Thermal Imaging 
+    
+-   1530h-1600h: Round Up Session, Question Period.
+
+-   Aim to finish by 1600h.
+    
 
 ## Before you attend
 
--   To participate in this workshop, you will need access to a laptop (preferreably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometricimage files. 
+-   To participate in this workshop, you will need access to a laptop (preferrably PC, but there may be Mac software available) with functioning software solution for examining FLIR radiometricimage files. 
 
 - A 30 day trial of FLIR Research Studio may be the best option:
 
