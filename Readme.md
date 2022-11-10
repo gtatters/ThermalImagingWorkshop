@@ -36,7 +36,7 @@
 
 -   1500h-1530h Automation challenges in Thermal Imaging 
     
--   1530h-1600h: Wrap-pp session, question period.
+-   1530h-1600h: Wrap-up session, question period.
 
 -   Aim to finish by 1600h.
     
